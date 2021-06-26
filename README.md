@@ -15,35 +15,14 @@ In Items we have a model which have basic data about the items. you get accessib
 * Prize
 
 ## API Overview
-![Image of API Overview](https://github.com/pruthvirbhat/Habbit/blob/main/Images/API%20overview.png)
+![Image of API Overview](https://github.com/pruthvirbhat/eSamudaay/blob/main/Images/API_main_file.png)
 
-## Login Page
-![Image of API Overview](https://github.com/pruthvirbhat/Habbit/blob/main/Images/Login%20Page.png)
+## Items List
+![Image of Items List](https://github.com/pruthvirbhat/eSamudaay/blob/main/Images/Items_List.png)
 
-## Course Model
-![Image of API Overview](https://github.com/pruthvirbhat/Habbit/blob/main/Images/courseModel.png)
-
-## WishList Model
-![Image of Category List](https://github.com/pruthvirbhat/Habbit/blob/main/Images/category.png)
-
-## Course List
-![Image of Course List](https://github.com/pruthvirbhat/Habbit/blob/main/Images/Course%20List.png)
-
-## Create Course
-![Image of API Overview](https://github.com/pruthvirbhat/Habbit/blob/main/Images/Course%20Create.png)
-
-## Delete Course
-![Image of API Overview](https://github.com/pruthvirbhat/Habbit/blob/main/Images/Course%20Delete.png)
-
-## Course Detail
-![Image of API Overview](https://github.com/pruthvirbhat/Habbit/blob/main/Images/Course%20Detail.png)
-
-## Course Update
-![Image of API Overview](https://github.com/pruthvirbhat/Habbit/blob/main/Images/Course%20Update.png)
-
-### For Testing Authentication
-id-pruthvi pass-pruthvi123
+## Calculates Total Order value
+![Image of Total Order Value](https://github.com/pruthvirbhat/eSamudaay/blob/main/Images/Calculate_total.png)
 
 # Technology stack
-* Django-rest-framework
-* Django
+* FastAPI
+* Python
